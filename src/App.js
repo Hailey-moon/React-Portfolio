@@ -3,9 +3,10 @@ import './App.css';
 function App() {
   return (
     <div>
-      hello, this is a website
+      This is my portfolio
     </div>
   );
 }
+
 
 export default App;
