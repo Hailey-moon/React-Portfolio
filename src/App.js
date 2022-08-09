@@ -1,9 +1,10 @@
-import './App.css';
+import './style/App.css';
+import Header from './components/Header';
 
 function App() {
   return (
     <div>
-      This is my portfolio
+      <Header />
     </div>
   );
 }

@@ -1,16 +1,16 @@
 @font-face {
   font-family: gotham-book;
-  src: url(./static/GothamBook.ttf);
+  src: url(../static/GothamBook.ttf) format("truetype");
 }
 
 @font-face {
   font-family: gotham-bold;
-  src: url(./static/GothamBold.ttf);
+  src: url(../static/GothamBold.ttf) format("truetype");
 }
 
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; 
-  font-family: "gotham-book", san-serif;
+  font-family: "gotham-book", sans-serif;
   box-sizing: border-box;
 }
