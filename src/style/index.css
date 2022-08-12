@@ -1,16 +1,9 @@
-@font-face {
-  font-family: gotham-book;
-  src: url(../static/GothamBook.ttf) format("truetype");
-}
-
-@font-face {
-  font-family: gotham-bold;
-  src: url(../static/GothamBold.ttf) format("truetype");
-}
-
-body {
+body, button {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; 
-  font-family: "gotham-book", sans-serif;
   box-sizing: border-box;
+}
+
+body, button {
+  font-family: 'Montserrat', sans-serif;
 }
