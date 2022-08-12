@@ -2,6 +2,7 @@ import './style/App.css';
 import Header from './components/Header';
 import Experience from './components/Experience';
 import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
         description="Graphic design internship at Boston University's leading technology innovation organization."
         image="./static/spark-mockup.png"
       />
+      <Footer />
     </div>
   );
 }
