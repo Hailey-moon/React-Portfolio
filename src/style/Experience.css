@@ -1,0 +1,62 @@
+.experience {
+    height: 65vh;
+    /* background-color: white; */
+    display: flex;
+    padding: 2%;
+    justify-content: center;
+    align-items: center;
+}
+
+.experience .exp--left {
+    width: 40%;
+}
+
+.experience .exp--right {
+    width: 40%;
+}
+
+.experience .exp--company {
+    text-decoration: underline;
+    text-decoration-color: #6C95FF;
+}
+
+.experience .exp--description {
+    font-size: 1.2rem;
+}
+
+.experience .exp--button {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 80px;
+    padding: 8px 15px;
+    font-size: 1rem;
+}
+
+.experience .exp--img {
+    width: 500px;
+}
+
+/* Tablet size  */
+@media only screen and (max-width: 1024px) {
+    .experience {
+        display: block;
+        padding: 5%;
+        margin: auto;
+        width: 70%;
+    }
+    
+    .experience .exp--left, .exp--right {
+        margin: auto;
+        width: 100%;
+    }
+
+    .exp--right {
+        margin-right: 50%;
+    }
+
+    .experience .exp--img {
+        width: 150%;
+        min-width: 250px;
+    }
+}
