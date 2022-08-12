@@ -6,8 +6,10 @@ import Spark from "../static/spark-mockup.png"
 
 export default function Experience({company, description, image}) {
     let img = ""
+    let scrollId = ""
     if (company.includes("Cashmate")) {
         img = Cashmate
+        scrollId = "work"
     } else if (company.includes("BostonHacks")) {
         img = BostonHacks
     } else if (company.includes("Spark")) {
@@ -16,7 +18,7 @@ export default function Experience({company, description, image}) {
         console.log("No image for this company is imported yet")
     }
     return (
-        <div className="experience">
+        <div className="experience" id={scrollId}>
             <div className="exp--left">
                 <h1 className="exp--company">{company}</h1>
                 <p className="exp--description">{description}</p>

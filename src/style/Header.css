@@ -74,7 +74,7 @@ html, body {
     transform: rotate(-180deg);
     animation: transform 30s ease-in-out infinite both alternate,
       movement_two 60s ease-in-out infinite both; 
-    z-index: 1;
+    z-index: 0;
 }
 
 @keyframes transform {
