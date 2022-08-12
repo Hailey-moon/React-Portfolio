@@ -1,10 +1,12 @@
 import './style/App.css';
 import Header from './components/Header';
-import Experience from './components/Experience'
+import Experience from './components/Experience';
+import Navbar from './components/Navbar';
 
 function App() {
   return (
     <div>
+      <Navbar />
       <Header />
       <Experience
         company="Cashmate"
