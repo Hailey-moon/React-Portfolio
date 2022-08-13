@@ -1,0 +1,38 @@
+[
+    {
+        "company": "Cashmate",
+        "description": "An iOS budgeting app built to promote fiscal responsibility by motivating users through social engagement.",
+        "image": "cashmate-mockup.png",
+        "link": "Cashmate",
+        "caseStudy":
+        {
+            "description":"Cashmate started with the recognition of mindless spending in everyday life. One tap of a plastic card and your money was gone too quick. Our team wanted to design an experience that forced the users to face the costs, but make it fun, social, and interactive. Hence Cashmate: the social budgeting app",
+            "role":"UI/UX Designer",
+            "method":"Figma, Miro, Jira"
+        }
+    },
+    {
+        "company": "BostonHacks 2021",
+        "description": "One of the biggest student-run hackathons at Boston University, hosting over 260 students per year in the New England area.",
+        "image": "bhacks-mockup.png",
+        "link": "BostonHacks",
+        "caseStudy":
+        {
+            "description":"example description",
+            "role":"example role",
+            "method":"example method"
+        }
+    },
+    {
+        "company": "Spark!",
+        "description": "Graphic design internship at Boston University's leading technology innovation organization.",
+        "image": "spark-mockup.png",
+        "link": "Spark",
+        "caseStudy":
+        {
+            "description":"example description",
+            "role":"example role",
+            "method":"example method"
+        }
+    }
+]

@@ -1,0 +1,11 @@
+.case {
+    padding: 15%;
+}
+
+.case .case--details-div {
+    display: flex;
+}
+
+.case .case--details-div > div {
+    margin-right: 20%;
+}
