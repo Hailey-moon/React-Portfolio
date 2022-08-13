@@ -1,31 +1,18 @@
-import React from "react"
-import "../style/Experience.css"
-import Cashmate from "../static/cashmate-mockup.png"
-import BostonHacks from "../static/bhacks-mockup.png"
-import Spark from "../static/spark-mockup.png"
+import React from "react";
+import { useState } from "react";
+import "../style/Experience.css";
+import { Link } from "react-router-dom";
 
-export default function Experience({company, description, image}) {
-    let img = ""
-    let scrollId = ""
-    if (company.includes("Cashmate")) {
-        img = Cashmate
-        scrollId = "work"
-    } else if (company.includes("BostonHacks")) {
-        img = BostonHacks
-    } else if (company.includes("Spark")) {
-        img = Spark
-    } else {
-        console.log("No image for this company is imported yet")
-    }
+export default function Experience({company, description, link, image, caseStudy}) {
     return (
-        <div className="experience" id={scrollId}>
+        <div className="experience">
             <div className="exp--left">
                 <h1 className="exp--company">{company}</h1>
                 <p className="exp--description">{description}</p>
-                <button className="exp--button">Read More</button>
+                <Link className="exp--button" to={link}>Read More</Link>
             </div>
             <div className="exp--right">
-                <img className="exp--img" src={img} alt={`${company} mockup`} />
+                <img className="exp--img" src={process.env.PUBLIC_URL + image} alt={`${company} mockup`} />
             </div>
         </div>
     )

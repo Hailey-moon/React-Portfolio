@@ -7,3 +7,7 @@ body, button {
 body, button {
   font-family: 'Montserrat', sans-serif;
 }
+
+p {
+  font-size: 1.2rem;
+}
