@@ -3,15 +3,18 @@ import Home from './components/Home';
 import About from './components/About'
 import { Routes, Route } from 'react-router-dom';
 import Cashmate from './components/Cashmate';
+import ScrollToTop from './components/ScrollToTop';
 
 function App() {
   return (
     <div className='app'>
-      <Routes>
-        <Route path="/" element={ <Home /> } />
-        <Route path="about" element={ <About /> } />
-        <Route path="cashmate" element={ <Cashmate /> }/>
-      </Routes>
+      <ScrollToTop>
+        <Routes>
+          <Route path="/" element={ <Home /> } />
+          <Route path="about" element={ <About /> } />
+          <Route path="cashmate" element={ <Cashmate /> }/>
+        </Routes>
+      </ScrollToTop>
     </div>
   );
 }
