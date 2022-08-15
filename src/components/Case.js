@@ -18,6 +18,7 @@ export default function Case({description, role, method}) {
                     <p className="case--method">{method}</p>
                 </div>
             </div>
+            <div className="blob"></div>
         </div>
     )
 }

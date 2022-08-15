@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "company": "Cashmate",
         "description": "An iOS budgeting app built to promote fiscal responsibility by motivating users through social engagement.",
         "image": "cashmate-mockup.png",
@@ -8,10 +9,43 @@
         {
             "description":"Cashmate started with the recognition of mindless spending in everyday life. One tap of a plastic card and your money was gone too quick. Our team wanted to design an experience that forced the users to face the costs, but make it fun, social, and interactive. Hence Cashmate: the social budgeting app",
             "role":"UI/UX Designer",
-            "method":"Figma, Miro, Jira"
+            "method":"Figma, Miro, Jira",
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Exploring Brand Potential",
+                    "image": "cashmate-1.png",
+                    "caption": "The first thing I did was brainstorm visuals for what the app could look like when completed. What colors would be in use? What do I want the users to feel when they see the app? What thematic elements could be in play? When I gathered some ideas, I took them to my teams to decide on one."
+                },
+                {
+                    "id": 2,
+                    "title": "Solidifying Brand Identity",
+                    "image": "cashmate-2.png",
+                    "caption": "After the general direction was decided, I gathered assets to build on the brand. Modern, clean, but approachable. (Top: typography, bottom right: color palette, bottom: logo ideas)"
+                },
+                {
+                    "id": 3,
+                    "title": "Low-Fidelity Wireframes",
+                    "image": "cashmate-3.png",
+                    "caption": "We then sorted out user stories and boiled down to 10 features we wanted to develop for the next few months. Then I got working on the low fidelity wireframes right away. We first have the onboarding (row one) with the log-in/sign-in page, then user sets the budget for the week. Then we have user inputting a spending (row two) where they input dollar amount and choose a category. Row three shows the social features of the app: the timeline, social profile, and finding friends."
+                },
+                {
+                    "id": 4,
+                    "title": "High-Fidelity Wireframes",
+                    "image": "cashmate-4.png",
+                    "caption": "After we built the app based on the lo-fi wireframes, we ran user tests with students on campus. The high-fidelity wireframes were constructed based on their feedback. Now there is a better onboarding proces (row one and two), a clear indication of actions to take for inputting spendings (row three), and use of colors to inform users of their status in budget."
+                },
+                {
+                    "id": 5,
+                    "title": "Final Product",
+                    "image": "cashmate-5.png",
+                    "caption": "In one semester – less than 4 months – Cashmate went from an idea to an app. Between these oversimplified 4 steps, we had 50+ problem validations, 60+ solution validations, 20+ solution interviews, 20+ usability interviews, and countless late nights with the team. "              
+                }
+            ]
         }
     },
     {
+        "id": 2,
         "company": "BostonHacks 2021",
         "description": "One of the biggest student-run hackathons at Boston University, hosting over 260 students per year in the New England area.",
         "image": "bhacks-mockup.png",
@@ -24,6 +58,7 @@
         }
     },
     {
+        "id": 3,
         "company": "Spark!",
         "description": "Graphic design internship at Boston University's leading technology innovation organization.",
         "image": "spark-mockup.png",
@@ -32,7 +67,7 @@
         {
             "description":"example description",
             "role":"example role",
-            "method":"example method"
+            "method":"example methokldlalaksjdlk"
         }
     }
 ]
