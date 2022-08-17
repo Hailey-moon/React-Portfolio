@@ -27,13 +27,13 @@
                     "id": 3,
                     "title": "Low-Fidelity Wireframes",
                     "image": "cashmate-3.png",
-                    "caption": "We then sorted out user stories and boiled down to 10 features we wanted to develop for the next few months. Then I got working on the low fidelity wireframes right away. We first have the onboarding (row one) with the log-in/sign-in page, then user sets the budget for the week. Then we have user inputting a spending (row two) where they input dollar amount and choose a category. Row three shows the social features of the app: the timeline, social profile, and finding friends."
+                    "caption": "We then sorted out user stories and boiled them down to 10 features we wanted to develop for the next few months. Then I got working on the low-fidelity wireframes right away. We first have the onboarding (row one) with the log-in/sign-in page, then the user sets the budget for the week. Then we have users inputting spending (row two) where they input a dollar amount and choose a category. Row three shows the social features of the app: the timeline, social profile, and finding friends."
                 },
                 {
                     "id": 4,
                     "title": "High-Fidelity Wireframes",
                     "image": "cashmate-4.png",
-                    "caption": "After we built the app based on the lo-fi wireframes, we ran user tests with students on campus. The high-fidelity wireframes were constructed based on their feedback. Now there is a better onboarding proces (row one and two), a clear indication of actions to take for inputting spendings (row three), and use of colors to inform users of their status in budget."
+                    "caption": "After we built the app based on the low-fidelity wireframes, we ran user tests with students on campus. The high-fidelity wireframes were constructed based on their feedback. Now there is a better onboarding process (row one and two), a clear indication of actions to take for inputting spending (row three), and the use of colors to inform users of their status in budget."
                 },
                 {
                     "id": 5,
@@ -60,13 +60,13 @@
                     "id": 1,
                     "title": "Choosing Color Palette Based on the Theme",
                     "image": "bostonhacks-1.png",
-                    "caption": "As COVID crisis receded, we wanted to focus and look forward to the recovery after the global pandemic. Hence BostonHacks 2021 theme was \"Life After COVID.\" After rounds of brainstorming, we decided on this yellow and orange as main colors to represent the sunset, symbolizing an end of an era."
+                    "caption": "As the COVID crisis receded, we wanted to focus and look forward to the recovery after the global pandemic. Hence BostonHacks 2021 theme was \"Life After COVID.\" After rounds of brainstorming, we decided on yellow and orange as the main colors to represent the sunset, symbolizing an end of an era."
                 },
                 {
                     "id": 2,
                     "title": "Mobile-First Wireframes",
                     "image": "bostonhacks-2.png",
-                    "caption": "To account for mobile experience, we started with mobile wireframes then expanded to desktop version later on. Because these were my first website wireframes, the left wireframes are more explorative and naive. The second one to the end was chosen as final design." 
+                    "caption": "To account for the mobile experience, we started with mobile wireframes and then expanded to the desktop version later on. Because these were my first website wireframes, the left wireframes are more explorative and naive. The second one to the end was chosen as the final design." 
                 },
                 {
                     "id": 3,
@@ -78,7 +78,7 @@
                     "id": 4,
                     "title": "Social Media Graphics",
                     "image": "bostonhacks-4.png",
-                    "caption": "I had taken a liking of the triplet of red, blue, pink motif that symbolized sunset, moonrise, and sunrise. So I continued the motif through the registration announcement posts and track announcement posts, which were both series of three posts. If I could redo these posts, I would fix the low contrast, especially in the pink track post (row 2 column 2)." 
+                    "caption": "I had taken a liking to the triplet of red, blue, and pink motif that symbolized sunset, moonrise, and sunrise. So I continued the motif through the registration announcement posts and track announcement posts, which were both series of three posts. If I could redo these posts, I would fix the low contrast, especially in the pink track post (row 2 column 2)." 
                 },
                 {
                     "id": 5,
@@ -87,19 +87,6 @@
                     "caption": "To finish up, here are some design candidates for the tote bag we gave out that year." 
                 }
             ]
-        }
-    },
-    {
-        "id": 3,
-        "company": "Spark!",
-        "description": "Graphic design internship at Boston University's leading technology innovation organization.",
-        "image": "spark-mockup.png",
-        "link": "Spark",
-        "caseStudy":
-        {
-            "description":"example description",
-            "role":"example role",
-            "method":"example methokldlalaksjdlk"
         }
     }
 ]
