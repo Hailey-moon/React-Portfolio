@@ -52,9 +52,41 @@
         "link": "BostonHacks",
         "caseStudy":
         {
-            "description":"example description",
-            "role":"example role",
-            "method":"example method"
+            "description":"BostonHacks requires a new website every year based on the theme of the hackathon. The Design Team is given less than a month to design the mobile and desktop wireframe for the site. It's also Design Team's responsibility to design social media graphics and swag design.",
+            "role":"Design Team",
+            "method":"Figma",
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Choosing Color Palette Based on the Theme",
+                    "image": "bostonhacks-1.png",
+                    "caption": "As COVID crisis receded, we wanted to focus and look forward to the recovery after the global pandemic. Hence BostonHacks 2021 theme was \"Life After COVID.\" After rounds of brainstorming, we decided on this yellow and orange as main colors to represent the sunset, symbolizing an end of an era."
+                },
+                {
+                    "id": 2,
+                    "title": "Mobile-First Wireframes",
+                    "image": "bostonhacks-2.png",
+                    "caption": "To account for mobile experience, we started with mobile wireframes then expanded to desktop version later on. Because these were my first website wireframes, the left wireframes are more explorative and naive. The second one to the end was chosen as final design." 
+                },
+                {
+                    "id": 3,
+                    "title": "Additional Pages",
+                    "image": "bostonhacks-3.png",
+                    "caption": "After the landing page design was chosen, I designed the sponsorship information page and hacker status page based on the landing page." 
+                },
+                {
+                    "id": 4,
+                    "title": "Social Media Graphics",
+                    "image": "bostonhacks-4.png",
+                    "caption": "I had taken a liking of the triplet of red, blue, pink motif that symbolized sunset, moonrise, and sunrise. So I continued the motif through the registration announcement posts and track announcement posts, which were both series of three posts. If I could redo these posts, I would fix the low contrast, especially in the pink track post (row 2 column 2)." 
+                },
+                {
+                    "id": 5,
+                    "title": "Swag Design",
+                    "image": "bostonhacks-5.png",
+                    "caption": "To finish up, here are some design candidates for the tote bag we gave out that year." 
+                }
+            ]
         }
     },
     {
