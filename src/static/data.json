@@ -5,11 +5,10 @@
         "description": "An iOS budgeting app built to promote fiscal responsibility by motivating users through social engagement.",
         "image": "/cashmate-mockup.png",
         "link": "Cashmate",
-        "caseStudy":
-        {
-            "description":"Cashmate started with the recognition of mindless spending in everyday life. One tap of a plastic card and your money was gone too quick. Our team wanted to design an experience that forced the users to face the costs, but make it fun, social, and interactive. Hence Cashmate: the social budgeting app",
-            "role":"UI/UX Designer",
-            "method":"Figma, Miro, Jira",
+        "caseStudy": {
+            "description": "Cashmate started with the recognition of mindless spending in everyday life. One tap of a plastic card and your money was gone too quick. Our team wanted to design an experience that forced the users to face the costs, but make it fun, social, and interactive. Hence Cashmate: the social budgeting app",
+            "role": "UI/UX Designer",
+            "method": "Figma, Miro, Jira",
             "steps": [
                 {
                     "id": 1,
@@ -39,7 +38,7 @@
                     "id": 5,
                     "title": "Final Product",
                     "image": "/cashmate-5.png",
-                    "caption": "In one semester – less than 4 months – Cashmate went from an idea to an app. Between these oversimplified 4 steps, we had 50+ problem validations, 60+ solution validations, 20+ solution interviews, 20+ usability interviews, and countless late nights with the team. "              
+                    "caption": "In one semester \u2013 less than 4 months \u2013 Cashmate went from an idea to an app. Between these oversimplified 4 steps, we had 50+ problem validations, 60+ solution validations, 20+ solution interviews, 20+ usability interviews, and countless late nights with the team. "
                 }
             ]
         }
@@ -50,11 +49,10 @@
         "description": "One of the biggest student-run hackathons at Boston University, hosting over 260 students per year in the New England area.",
         "image": "/bhacks-mockup.png",
         "link": "BostonHacks",
-        "caseStudy":
-        {
-            "description":"BostonHacks requires a new website every year based on the theme of the hackathon. The Design Team is given less than a month to design the mobile and desktop wireframe for the site. It's also Design Team's responsibility to design social media graphics and swag design.",
-            "role":"Design Team",
-            "method":"Figma",
+        "caseStudy": {
+            "description": "BostonHacks requires a new website every year based on the theme of the hackathon. The Design Team is given less than a month to design the mobile and desktop wireframe for the site. It's also Design Team's responsibility to design social media graphics and swag design.",
+            "role": "Design Team",
+            "method": "Figma",
             "steps": [
                 {
                     "id": 1,
@@ -66,25 +64,25 @@
                     "id": 2,
                     "title": "Mobile-First Wireframes",
                     "image": "/bostonhacks-2.png",
-                    "caption": "To account for the mobile experience, we started with mobile wireframes and then expanded to the desktop version later on. Because these were my first website wireframes, the left wireframes are more explorative and naive. The second one to the end was chosen as the final design." 
+                    "caption": "To account for the mobile experience, we started with mobile wireframes and then expanded to the desktop version later on. Because these were my first website wireframes, the left wireframes are more explorative and naive. The second one to the end was chosen as the final design."
                 },
                 {
                     "id": 3,
                     "title": "Additional Pages",
                     "image": "/bostonhacks-3.png",
-                    "caption": "After the landing page design was chosen, I designed the sponsorship information page and hacker status page based on the landing page." 
+                    "caption": "After the landing page design was chosen, I designed the sponsorship information page and hacker status page based on the landing page."
                 },
                 {
                     "id": 4,
                     "title": "Social Media Graphics",
                     "image": "/bostonhacks-4.png",
-                    "caption": "I had taken a liking to the triplet of red, blue, and pink motif that symbolized sunset, moonrise, and sunrise. So I continued the motif through the registration announcement posts and track announcement posts, which were both series of three posts. If I could redo these posts, I would fix the low contrast, especially in the pink track post (row 2 column 2)." 
+                    "caption": "I had taken a liking to the triplet of red, blue, and pink motif that symbolized sunset, moonrise, and sunrise. So I continued the motif through the registration announcement posts and track announcement posts, which were both series of three posts. If I could redo these posts, I would fix the low contrast, especially in the pink track post (row 2 column 2)."
                 },
                 {
                     "id": 5,
                     "title": "Swag Design",
                     "image": "/bostonhacks-5.png",
-                    "caption": "To finish up, here are some design candidates for the tote bag we gave out that year." 
+                    "caption": "To finish up, here are some design candidates for the tote bag we gave out that year."
                 }
             ]
         }
