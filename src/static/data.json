@@ -47,7 +47,7 @@
         "id": 2,
         "company": "BostonHacks 2021",
         "description": "One of the biggest student-run hackathons at Boston University, hosting over 260 students per year in the New England area.",
-        "image": "/bhacks-mockup.png",
+        "image": "/bostonhacks21-mockup.png",
         "link": "BostonHacks",
         "caseStudy": {
             "description": "BostonHacks requires a new website every year based on the theme of the hackathon. The Design Team is given less than a month to design the mobile and desktop wireframe for the site. It's also Design Team's responsibility to design social media graphics and swag design.",
@@ -83,6 +83,44 @@
                     "title": "Swag Design",
                     "image": "/bostonhacks-5.png",
                     "caption": "To finish up, here are some design candidates for the tote bag we gave out that year."
+                }
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "company": "TechTogether",
+        "description": "Nation's largest initiative to address the gender inequities in the hackathon community.",
+        "image": "/techtogether-mockup.png",
+        "link": "TechTogether",
+        "caseStudy": {
+            "description": "Every year, TechTogether hosts a hackathon that brings in people of marginalized genders from all over the world. My team\u2019s job was to design and build a website with a strong call to action and a friendly user experience for everyone.",
+            "role": "Boston Chapter Technology Team",
+            "method": "Figma, Notion, HTML, CSS, JavaScript, GitHub",
+            "steps": [
+                {
+                    "id": 1,
+                    "title": "Low-Fidelity Wireframe",
+                    "image": "/techtogether-1.png",
+                    "caption": "First, I drafted out a low-fidelity wireframe so that I can make sure to include all the necessary information without being distracted by the styling. I utilized TechTogether\u2019s branding guidelines to get accurate fonts and logo styling."
+                },
+                {
+                    "id": 2,
+                    "title": "High-Fidelity Wireframe Drafts",
+                    "image": "/techtogether-2.png",
+                    "caption": "The driver behind these drafts is a gift from a Major League Hacking designer: the illustration of Byte (TechTogether mascot) you see on the landing page. I asked for an SVG file version so that I can extract assets such as the wand, candies, and more to keep the whole site cohesive. The theme for TechTogehether Boston this year is Halloween, which inspired a trick-or-treating plotline in the left wireframe."
+                },
+                {
+                    "id": 3,
+                    "title": "Going Back to the Brand",
+                    "image": "/techtogether-3.png",
+                    "caption": "In a feedback session, one concern was the loss of brand identity in the wireframes. To respond to this, I substituted the colors with similar colors in the TechTogether brand colors."
+                },
+                {
+                    "id": 4,
+                    "title": "Final High Fidelity Wireframe",
+                    "image": "/techtogether-4.png",
+                    "caption": "After some real-time editing in a session with the supervisors, the final wireframe addressed accessibility issues, held up the brand identity, and had a bigger, two-column FAQ section to stay realistic of the number of questions. "
                 }
             ]
         }

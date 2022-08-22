@@ -1,6 +1,5 @@
 .experience {
     height: 65vh;
-    /* background-color: white; */
     display: flex;
     padding: 2%;
     justify-content: center;
@@ -8,11 +7,11 @@
 }
 
 .experience .exp--left {
-    width: 40%;
+    width: 70vh;
 }
 
 .experience .exp--right {
-    width: 40%;
+    width: 70vh;
 }
 
 .experience .exp--company {
@@ -34,29 +33,35 @@
 }
 
 .experience .exp--img {
-    width: 500px;
+    width: 100%;
 }
 
 /* Tablet size  */
 @media only screen and (max-width: 1024px) {
     .experience {
         display: block;
-        padding: 5%;
+        padding: 10%;
         margin: auto;
-        width: 70%;
+        width: 50%;
     }
-    
-    .experience .exp--left, .exp--right {
-        margin: auto;
+
+    .experience .exp--left {
         width: 100%;
     }
 
-    .exp--right {
-        margin-right: 50%;
+    .experience .exp--img {
+        width: 70%;
+    }
+}
+
+/* Mobile size */
+@media only screen and (max-width: 480px) {
+    .experience {
+        padding: 0;
+        width: 70%;
     }
 
     .experience .exp--img {
-        width: 150%;
-        min-width: 250px;
+        width: 30vh;
     }
 }
