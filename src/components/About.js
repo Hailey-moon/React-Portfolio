@@ -1,6 +1,5 @@
 import React from "react"
 import "../style/About.css"
-import Hailey from "../static/Hailey-Moon.jpg"
 import Navbar from './Navbar';
 import Footer from './Footer';
 
@@ -10,7 +9,7 @@ export default function About() {
             <Navbar />
             <div className="about--wrapper">
                 <div className="about--left">
-                    <img className="about--img" src={Hailey} alt="Hailey Moon"/>
+                    <img className="about--img" src={process.env.PUBLIC_URL + "/Hailey-Moon.jpg"} alt="Hailey Moon"/>
                 </div>
                 
                 <div className="about--right">

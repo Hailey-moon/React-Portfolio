@@ -1,7 +1,5 @@
 import React from "react"
 import "../style/Footer.css"
-import linkedIn from "../static/linkedin.svg"
-import gitHub from "../static/github.svg"
 
 export default function Footer() {
     return (
@@ -10,11 +8,11 @@ export default function Footer() {
             
             <div className="footer--icons">
                 <a className="footer--icon" href="https://www.linkedin.com/in/hailey-moon-/" target="_blank" rel="noreferrer">
-                    <img src={linkedIn} alt="linkedIn" />
+                    <img src={process.env.PUBLIC_URL + "/linkedin.svg"} alt="linkedIn" />
                 </a>
 
                 <a className="footer--icon" href="https://github.com/Hailey-moon" target="_blank" rel="noreferrer">
-                    <img src={gitHub} alt="GitHub" />
+                    <img src={process.env.PUBLIC_URL + "/github.svg"} alt="GitHub" />
                 </a>
             </div>
         </footer>
